@@ -1,0 +1,151 @@
+call_id,student_name,year,tech_stack,location,remarks,date,label
+CALL_001,Arjun Sharma,2023,Python,Noida,"Great course, excellent faculty and support",2024-01-15,positive
+CALL_002,Priya Patel,2023,MERN,Lucknow,"The fees are too high for the quality provided",2024-01-16,negative
+CALL_003,Rohit Kumar,2024,Java,Noida,"Good placement assistance but curriculum needs updating",2024-01-17,neutral
+CALL_004,Anjali Singh,2023,Python,Noida,"Amazing learning experience, highly recommend",2024-01-18,positive
+CALL_005,Vikram Gupta,2024,AI,Lucknow,"Course content is outdated and not industry relevant",2024-01-19,negative
+CALL_006,Meera Joshi,2023,MERN,Noida,"Support team is very helpful and responsive",2024-01-20,positive
+CALL_007,Sachin Verma,2024,Web Development,Lucknow,"Timing of classes is not convenient",2024-01-21,negative
+CALL_008,Kavita Rao,2023,Data Science,Noida,"Excellent infrastructure and facilities",2024-01-22,positive
+CALL_009,Amit Kumar,2024,Python,Lucknow,"Faculty lacks practical experience",2024-01-23,negative
+CALL_010,Neha Agarwal,2023,MERN,Noida,"Great community and peer learning",2024-01-24,positive
+CALL_011,Rajesh Tiwari,2024,Java,Lucknow,"Course duration is too long",2024-01-25,neutral
+CALL_012,Poonam Sharma,2023,AI,Noida,"Amazing project-based learning approach",2024-01-26,positive
+CALL_013,Deepak Singh,2024,Web Development,Lucknow,"Poor quality study materials",2024-01-27,negative
+CALL_014,Swati Gupta,2023,Data Science,Noida,"Excellent career guidance and support",2024-01-28,positive
+CALL_015,Manoj Kumar,2024,Python,Lucknow,"Classes are too crowded",2024-01-29,neutral
+CALL_016,Ritu Jain,2023,MERN,Noida,"Very satisfied with the overall experience",2024-01-30,positive
+CALL_017,Vinay Sharma,2024,Java,Lucknow,"Lack of hands-on practical sessions",2024-01-31,negative
+CALL_018,Anita Patel,2023,AI,Noida,"Great industry connections and networking",2024-02-01,positive
+CALL_019,Suresh Gupta,2024,Web Development,Lucknow,"Course fee doesn't match the value",2024-02-02,negative
+CALL_020,Kiran Rao,2023,Data Science,Noida,"Excellent doubt clearing sessions",2024-02-03,positive
+CALL_021,Alok Verma,2024,Python,Lucknow,"Infrastructure needs improvement",2024-02-04,neutral
+CALL_022,Preeti Singh,2023,MERN,Noida,"Best decision I made for my career",2024-02-05,positive
+CALL_023,Ravi Kumar,2024,Java,Lucknow,"Faculty is not approachable",2024-02-06,negative
+CALL_024,Divya Agarwal,2023,AI,Noida,"Amazing alumni network and support",2024-02-07,positive
+CALL_025,Sunil Sharma,2024,Web Development,Lucknow,"Course content is too basic",2024-02-08,neutral
+CALL_026,Monika Jain,2023,Data Science,Noida,"Very professional and well-organized",2024-02-09,positive
+CALL_027,Ajay Tiwari,2024,Python,Lucknow,"Poor internet connectivity during online sessions",2024-02-10,negative
+CALL_028,Priya Gupta,2023,MERN,Noida,"Excellent practical assignments and projects",2024-02-11,positive
+CALL_029,Vivek Singh,2024,Java,Lucknow,"Class timings conflict with work schedule",2024-02-12,negative
+CALL_030,Shweta Rao,2023,AI,Noida,"Great emphasis on soft skills development",2024-02-13,positive
+CALL_031,Rahul Kumar,2024,Web Development,Lucknow,"Study material quality is subpar",2024-02-14,negative
+CALL_032,Anjali Verma,2023,Data Science,Noida,"Very supportive learning environment",2024-02-15,positive
+CALL_033,Sandeep Sharma,2024,Python,Lucknow,"Course fee is reasonable for the quality",2024-02-16,neutral
+CALL_034,Megha Patel,2023,MERN,Noida,"Excellent placement preparation",2024-02-17,positive
+CALL_035,Gaurav Singh,2024,Java,Lucknow,"Lack of real-world project experience",2024-02-18,negative
+CALL_036,Ruchi Agarwal,2023,AI,Noida,"Great focus on latest technologies",2024-02-19,positive
+CALL_037,Amit Jain,2024,Web Development,Lucknow,"Faculty expertise is impressive",2024-02-20,positive
+CALL_038,Pooja Tiwari,2023,Data Science,Noida,"Course structure is well planned",2024-02-21,positive
+CALL_039,Vikash Kumar,2024,Python,Lucknow,"Weekend batches would be helpful",2024-02-22,neutral
+CALL_040,Neha Sharma,2023,MERN,Noida,"Very satisfied with faculty knowledge",2024-02-23,positive
+CALL_041,Raj Kumar,2024,Java,Lucknow,"Practical sessions are insufficient",2024-02-24,negative
+CALL_042,Kavita Singh,2023,AI,Noida,"Excellent industry-relevant curriculum",2024-02-25,positive
+CALL_043,Arun Gupta,2024,Web Development,Lucknow,"Course duration is appropriate",2024-02-26,neutral
+CALL_044,Smita Rao,2023,Data Science,Noida,"Great peer learning opportunities",2024-02-27,positive
+CALL_045,Mohit Verma,2024,Python,Lucknow,"Infrastructure is good but can be better",2024-02-28,neutral
+CALL_046,Anita Jain,2023,MERN,Noida,"Very professional administration",2024-02-29,positive
+CALL_047,Suresh Kumar,2024,Java,Lucknow,"Fee structure needs revision",2024-03-01,negative
+CALL_048,Preeti Sharma,2023,AI,Noida,"Amazing hands-on learning experience",2024-03-02,positive
+CALL_049,Vinod Singh,2024,Web Development,Lucknow,"Support team response time is slow",2024-03-03,negative
+CALL_050,Rina Agarwal,2023,Data Science,Noida,"Excellent career transition support",2024-03-04,positive
+CALL_051,Akash Tiwari,2024,Python,Lucknow,"Course content is comprehensive",2024-03-05,positive
+CALL_052,Shalini Gupta,2023,MERN,Noida,"Very happy with the learning outcomes",2024-03-06,positive
+CALL_053,Ravi Sharma,2024,Java,Lucknow,"More focus on advanced topics needed",2024-03-07,neutral
+CALL_054,Poonam Singh,2023,AI,Noida,"Great industry exposure and projects",2024-03-08,positive
+CALL_055,Deepak Kumar,2024,Web Development,Lucknow,"Class size is too large",2024-03-09,negative
+CALL_056,Swati Rao,2023,Data Science,Noida,"Excellent doubt resolution system",2024-03-10,positive
+CALL_057,Manoj Singh,2024,Python,Lucknow,"Evening batches would be convenient",2024-03-11,neutral
+CALL_058,Ritu Verma,2023,MERN,Noida,"Very satisfied with placement support",2024-03-12,positive
+CALL_059,Vinay Kumar,2024,Java,Lucknow,"Course material needs updating",2024-03-13,negative
+CALL_060,Anjali Sharma,2023,AI,Noida,"Great emphasis on practical skills",2024-03-14,positive
+CALL_061,Sachin Gupta,2024,Web Development,Lucknow,"Faculty interaction is good",2024-03-15,positive
+CALL_062,Kiran Singh,2023,Data Science,Noida,"Excellent learning platform",2024-03-16,positive
+CALL_063,Alok Rao,2024,Python,Lucknow,"More industry projects needed",2024-03-17,neutral
+CALL_064,Preeti Kumar,2023,MERN,Noida,"Very supportive community",2024-03-18,positive
+CALL_065,Rajesh Sharma,2024,Java,Lucknow,"Fee is justified by quality",2024-03-19,neutral
+CALL_066,Divya Singh,2023,AI,Noida,"Amazing technology stack coverage",2024-03-20,positive
+CALL_067,Sunil Kumar,2024,Web Development,Lucknow,"Practical assignments are challenging",2024-03-21,positive
+CALL_068,Monika Sharma,2023,Data Science,Noida,"Great focus on fundamentals",2024-03-22,positive
+CALL_069,Ajay Singh,2024,Python,Lucknow,"Weekend classes would help working professionals",2024-03-23,neutral
+CALL_070,Priya Rao,2023,MERN,Noida,"Excellent project portfolio development",2024-03-24,positive
+CALL_071,Vivek Kumar,2024,Java,Lucknow,"More emphasis on soft skills needed",2024-03-25,neutral
+CALL_072,Shweta Sharma,2023,AI,Noida,"Very comprehensive course coverage",2024-03-26,positive
+CALL_073,Rahul Singh,2024,Web Development,Lucknow,"Support team is helpful",2024-03-27,positive
+CALL_074,Anjali Kumar,2023,Data Science,Noida,"Great industry connections",2024-03-28,positive
+CALL_075,Sandeep Rao,2024,Python,Lucknow,"Course structure is logical",2024-03-29,positive
+CALL_076,Megha Sharma,2023,MERN,Noida,"Very satisfied with overall experience",2024-03-30,positive
+CALL_077,Gaurav Kumar,2024,Java,Lucknow,"More practical coding sessions needed",2024-03-31,neutral
+CALL_078,Ruchi Sharma,2023,AI,Noida,"Excellent machine learning coverage",2024-04-01,positive
+CALL_079,Amit Kumar,2024,Web Development,Lucknow,"Material quality is good",2024-04-02,positive
+CALL_080,Pooja Sharma,2023,Data Science,Noida,"Great data visualization focus",2024-04-03,positive
+CALL_081,Vikash Rao,2024,Python,Lucknow,"Infrastructure is adequate",2024-04-04,neutral
+CALL_082,Neha Kumar,2023,MERN,Noida,"Very professional faculty",2024-04-05,positive
+CALL_083,Raj Sharma,2024,Java,Lucknow,"Course fee could be more competitive",2024-04-06,negative
+CALL_084,Kavita Kumar,2023,AI,Noida,"Amazing deep learning coverage",2024-04-07,positive
+CALL_085,Arun Sharma,2024,Web Development,Lucknow,"Support is responsive",2024-04-08,positive
+CALL_086,Smita Kumar,2023,Data Science,Noida,"Excellent statistics foundation",2024-04-09,positive
+CALL_087,Mohit Sharma,2024,Python,Lucknow,"More advanced topics needed",2024-04-10,neutral
+CALL_088,Anita Kumar,2023,MERN,Noida,"Very happy with learning approach",2024-04-11,positive
+CALL_089,Suresh Sharma,2024,Java,Lucknow,"Faculty experience is good",2024-04-12,positive
+CALL_090,Preeti Kumar,2023,AI,Noida,"Great practical implementation focus",2024-04-13,positive
+CALL_091,Vinod Sharma,2024,Web Development,Lucknow,"Course duration is reasonable",2024-04-14,neutral
+CALL_092,Rina Kumar,2023,Data Science,Noida,"Excellent tool and technology coverage",2024-04-15,positive
+CALL_093,Akash Sharma,2024,Python,Lucknow,"More industry case studies needed",2024-04-16,neutral
+CALL_094,Shalini Kumar,2023,MERN,Noida,"Very satisfied with project work",2024-04-17,positive
+CALL_095,Ravi Rao,2024,Java,Lucknow,"Support team could be more proactive",2024-04-18,negative
+CALL_096,Poonam Kumar,2023,AI,Noida,"Amazing algorithm coverage",2024-04-19,positive
+CALL_097,Deepak Sharma,2024,Web Development,Lucknow,"Material is well-structured",2024-04-20,positive
+CALL_098,Swati Kumar,2023,Data Science,Noida,"Great SQL and database focus",2024-04-21,positive
+CALL_099,Manoj Rao,2024,Python,Lucknow,"Evening batches needed",2024-04-22,neutral
+CALL_100,Ritu Kumar,2023,MERN,Noida,"Very professional learning environment",2024-04-23,positive
+CALL_101,Vinay Sharma,2024,Java,Lucknow,"More hands-on projects required",2024-04-24,neutral
+CALL_102,Anjali Rao,2023,AI,Noida,"Excellent neural network coverage",2024-04-25,positive
+CALL_103,Sachin Kumar,2024,Web Development,Lucknow,"Faculty is knowledgeable",2024-04-26,positive
+CALL_104,Kiran Sharma,2023,Data Science,Noida,"Great big data concepts coverage",2024-04-27,positive
+CALL_105,Alok Kumar,2024,Python,Lucknow,"Course content is relevant",2024-04-28,positive
+CALL_106,Preeti Sharma,2023,MERN,Noida,"Very happy with React coverage",2024-04-29,positive
+CALL_107,Rajesh Kumar,2024,Java,Lucknow,"More Spring framework focus needed",2024-04-30,neutral
+CALL_108,Divya Sharma,2023,AI,Noida,"Amazing computer vision topics",2024-05-01,positive
+CALL_109,Sunil Rao,2024,Web Development,Lucknow,"CSS and HTML coverage is good",2024-05-02,positive
+CALL_110,Monika Kumar,2023,Data Science,Noida,"Excellent machine learning algorithms",2024-05-03,positive
+CALL_111,Ajay Sharma,2024,Python,Lucknow,"Django framework coverage needed",2024-05-04,neutral
+CALL_112,Priya Kumar,2023,MERN,Noida,"Very satisfied with Node.js coverage",2024-05-05,positive
+CALL_113,Vivek Sharma,2024,Java,Lucknow,"Microservices architecture needed",2024-05-06,neutral
+CALL_114,Shweta Kumar,2023,AI,Noida,"Great NLP and text processing",2024-05-07,positive
+CALL_115,Rahul Rao,2024,Web Development,Lucknow,"JavaScript frameworks coverage good",2024-05-08,positive
+CALL_116,Anjali Sharma,2023,Data Science,Noida,"Excellent Python for data science",2024-05-09,positive
+CALL_117,Sandeep Kumar,2024,Python,Lucknow,"Flask web development needed",2024-05-10,neutral
+CALL_118,Megha Sharma,2023,MERN,Noida,"Very happy with MongoDB coverage",2024-05-11,positive
+CALL_119,Gaurav Kumar,2024,Java,Lucknow,"Android development focus needed",2024-05-12,neutral
+CALL_120,Ruchi Sharma,2023,AI,Noida,"Amazing reinforcement learning topics",2024-05-13,positive
+CALL_121,Amit Rao,2024,Web Development,Lucknow,"Responsive design coverage good",2024-05-14,positive
+CALL_122,Pooja Kumar,2023,Data Science,Noida,"Great data preprocessing focus",2024-05-15,positive
+CALL_123,Vikash Sharma,2024,Python,Lucknow,"Data structures more emphasis needed",2024-05-16,neutral
+CALL_124,Neha Rao,2023,MERN,Noida,"Very satisfied with Express.js",2024-05-17,positive
+CALL_125,Raj Kumar,2024,Java,Lucknow,"Database integration needed",2024-05-18,neutral
+CALL_126,Kavita Sharma,2023,AI,Noida,"Excellent model deployment concepts",2024-05-19,positive
+CALL_127,Arun Kumar,2024,Web Development,Lucknow,"API development coverage good",2024-05-20,positive
+CALL_128,Smita Sharma,2023,Data Science,Noida,"Great feature engineering focus",2024-05-21,positive
+CALL_129,Mohit Kumar,2024,Python,Lucknow,"Algorithm complexity more coverage",2024-05-22,neutral
+CALL_130,Anita Sharma,2023,MERN,Noida,"Very happy with full-stack development",2024-05-23,positive
+CALL_131,Suresh Kumar,2024,Java,Lucknow,"Cloud deployment concepts needed",2024-05-24,neutral
+CALL_132,Preeti Sharma,2023,AI,Noida,"Amazing MLOps concepts coverage",2024-05-25,positive
+CALL_133,Vinod Kumar,2024,Web Development,Lucknow,"Version control more emphasis",2024-05-26,neutral
+CALL_134,Rina Sharma,2023,Data Science,Noida,"Excellent model evaluation techniques",2024-05-27,positive
+CALL_135,Akash Kumar,2024,Python,Lucknow,"System design concepts needed",2024-05-28,neutral
+CALL_136,Shalini Sharma,2023,MERN,Noida,"Very satisfied with authentication",2024-05-29,positive
+CALL_137,Ravi Kumar,2024,Java,Lucknow,"Security concepts more coverage",2024-05-30,neutral
+CALL_138,Poonam Sharma,2023,AI,Noida,"Great model optimization techniques",2024-05-31,positive
+CALL_139,Deepak Rao,2024,Web Development,Lucknow,"Testing frameworks coverage good",2024-06-01,positive
+CALL_140,Swati Sharma,2023,Data Science,Noida,"Excellent data visualization tools",2024-06-02,positive
+CALL_141,Manoj Kumar,2024,Python,Lucknow,"Concurrency concepts needed",2024-06-03,neutral
+CALL_142,Ritu Sharma,2023,MERN,Noida,"Very happy with deployment concepts",2024-06-04,positive
+CALL_143,Vinay Rao,2024,Java,Lucknow,"Design patterns more emphasis",2024-06-05,neutral
+CALL_144,Anjali Kumar,2023,AI,Noida,"Amazing transfer learning concepts",2024-06-06,positive
+CALL_145,Sachin Sharma,2024,Web Development,Lucknow,"DevOps integration good",2024-06-07,positive
+CALL_146,Kiran Rao,2023,Data Science,Noida,"Great A/B testing concepts",2024-06-08,positive
+CALL_147,Alok Sharma,2024,Python,Lucknow,"Memory management concepts needed",2024-06-09,neutral
+CALL_148,Preeti Rao,2023,MERN,Noida,"Very satisfied with real-time features",2024-06-10,positive
+CALL_149,Rajesh Sharma,2024,Java,Lucknow,"Scalability concepts more coverage",2024-06-11,neutral
+CALL_150,Divya Rao,2023,AI,Noida,"Amazing AI ethics and bias discussion",2024-06-12,positive
